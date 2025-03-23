@@ -1,0 +1,5 @@
+[main]
+embedmodel=nomic-embed-text
+mainmodel=mistral
+source_path="docs_for_test/"
+db_path="db/"
